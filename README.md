@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧾 Validador de Cartão de Crédito (HTML + JavaScript)
 
 Este projeto é uma aplicação simples para validar números de cartão de crédito com base em prefixos, comprimento e no **Algoritmo de Luhn**. A validação é feita em tempo real conforme o usuário digita o número do cartão.
@@ -75,4 +74,3 @@ Desenvolvido por Rafael da Silva Oliveira — entusiasta em programação e auto
 =======
 # Projeto-Bandeira-Cartoes
 Este projeto é uma aplicação simples para validar números de cartão de crédito com base em prefixos, comprimento e no Algoritmo de Luhn. A validação é feita em tempo real conforme o usuário digita o número do cartão.
->>>>>>> 0dca8374478a879600f16a7c18b540c93059004e
